@@ -1,6 +1,4 @@
-# canvas-sketch-util
-
-Utilities for generative art in Canvas, WebGL and JavaScript.
+# canvas-sketches
 
 This repo uses [canvas-sketch](https://github.com/mattdesl/canvas-sketch/) toolset
 
