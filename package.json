@@ -1,0 +1,21 @@
+{
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "convex-hull": "^1.0.3",
+    "density-clustering": "^1.3.0",
+    "graphql": "^16.0.1",
+    "load-asset": "^1.2.0",
+    "two.js": "^0.7.12"
+  }
+}
